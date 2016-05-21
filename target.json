@@ -4,10 +4,10 @@
   "description": "mbed build target for the ST Nucleo f446re development board.",
   "author": "swkim01@gmail.com",
   "repository": {
-    "url": "git@github.com:swkim01/st-nucleo-f446re-gcc.git",
+    "url": "git@github.com:swkim01/target-st-nucleo-f446re-gcc.git",
     "type": "git"
   },
-  "homepage": "https://github.com/swkim01/st-nucleo-f446re-gcc",
+  "homepage": "https://github.com/swkim01/target-st-nucleo-f446re-gcc",
   "licenses": [
     {
       "url": "https://spdx.org/licenses/Apache-2.0",
