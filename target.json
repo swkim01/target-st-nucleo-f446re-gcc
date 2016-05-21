@@ -2,7 +2,7 @@
   "name": "st-nucleo-f446re-gcc",
   "version": "0.1.0",
   "description": "mbed build target for the ST Nucleo f446re development board.",
-  "author": "swkim01@gmail.com",
+  "author": "aquilegia",
   "repository": {
     "url": "git@github.com:swkim01/target-st-nucleo-f446re-gcc.git",
     "type": "git"
